@@ -1,22 +1,4 @@
 
-**Hack 36 6.0**
-
-![built-at-hack](https://user-images.githubusercontent.com/76893116/227752940-5a04514f-9909-4a1b-aba6-52978baa72fc.jpg)
-
-# Chill_Down
-
- Team Name: **init\_0**
-<h5>Jagdish Kumar</h5>
-<h5>Priyansh Verma </h5>
-<h5>Ashish Nishad</h5>
-<h5>Abhi Bhaskar </h5>
-
-Video link : https://drive.google.com/file/d/13gdsnkh4SijeM_z0srKVJ8gDTGiYQzFy/view?usp=drivesdk
-<hr>
-PPT link: https://drive.google.com/file/d/1ra3ic2SV5KAF3FX3yLBfMA0uyVq2sbkb/view?usp=drivesdk
-
- **Project name: Chill-Down**
-
 **Description: Mental Health Improvement by detecting stress inducing factor**
 
 In our project we  are preparing a ML model that predicts the level of stress an individual bear. And accordingly we are detecting the crucial factors causing stress to them and hence providing personalized solutions depending on the factors affecting the mental health of the user.
