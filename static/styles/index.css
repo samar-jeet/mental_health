@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: linear-gradient(-90deg, #2e72ed, #e5a1ed);
+    font-family: cursive;
+}
+
+.route{
+    margin: 30px;
+}
+.headline{
+    display: inline-block;
+    color: green;
+   
+}
+img{
+    display: inline-block;
+    
+
+    margin-left: 900px;
+    
+}
+
+.headline{
+    margin: 30px;
+}
+div.image{
+    width: 80px;
+    height: 60px;
+    border: 2px solid red;
+}

@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: linear-gradient(-90deg, #2e72ed, #e5a1ed);
+    font-family: cursive;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #088b0d;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
