@@ -29,5 +29,3 @@ Login Page
 ![image](https://user-images.githubusercontent.com/76893116/227752978-ba6f41aa-f121-4bcf-963e-3890567f0c2b.png)
 
 
-
-![built-at-hack](https://user-images.githubusercontent.com/76893116/227752941-dcbf10e3-0dd4-40c7-a5ab-e17cfab43e34.jpg)
