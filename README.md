@@ -16,9 +16,10 @@ In our project we  are preparing a ML model that predicts the level of stress an
 ![Screenshot (40)](https://github.com/samar-jeet/mental_health/assets/81514487/e83049ad-404e-4f67-baf0-3edff138a150)
 
 
+![Screenshot (39)](https://github.com/samar-jeet/mental_health/assets/81514487/4b6a4ab8-7a8d-4533-a0aa-6d9b1caecd6b)
 
+![Screenshot (39)](https://github.com/samar-jeet/mental_health/assets/81514487/b42c3a10-6d52-4f99-9a93-7a23e5a3b5db)
 
-![Screenshot (39)](https://user-images.githubusercontent.com/76893116/227753233-af435691-b11e-4947-b44a-2bdefcd2991c.png)
 
 
 Login Page
