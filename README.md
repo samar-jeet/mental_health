@@ -21,7 +21,7 @@ In our project we  are preparing a ML model that predicts the level of stress an
 
 Login Page
 
-![image](https://ibb.co/Cs5mkFD)
+![image](https://user-images.githubusercontent.com/76893116/227752981-98e2edb3-ccdd-44cc-82bd-af42d09fac36.png)
 ![image](https://user-images.githubusercontent.com/76893116/227752973-bc48d5d9-7f4c-4b42-b1d4-425bdf9db50f.png)
 ![image](https://user-images.githubusercontent.com/76893116/227752971-05aeaf38-dc33-413f-99f7-9b263f543369.png)
 ![image](https://user-images.githubusercontent.com/76893116/227753043-f9880a8c-f2d4-4586-86da-0fb317ae17ba.png)
