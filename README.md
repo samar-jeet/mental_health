@@ -12,6 +12,8 @@ In our project we  are preparing a ML model that predicts the level of stress an
 - Real life motivational stories that connect the user’s sentiments (recommending system)
 - For Critical Users(highly stressed) we recommend Psychologists.
 - Chatbot for general Queries related to mental health of user.
+(https://github.com/samar-jeet/mental_health/assets/81514487/d928d9bc-6df2-4ce4-9e91-95b27dd8bb25)
+![Uploading 227753335-ea4c650f-00c5-4ca2-b1b7-8f1ee2722d81.png…]()
 
 ![Screenshot (40) (1)](https://user-images.githubusercontent.com/76893116/227753335-ea4c650f-00c5-4ca2-b1b7-8f1ee2722d81.png)
 
