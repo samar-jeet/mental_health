@@ -14,6 +14,7 @@ In our project we  are preparing a ML model that predicts the level of stress an
 - Chatbot for general Queries related to mental health of user.
   
 ![Screenshot (40)](https://github.com/samar-jeet/mental_health/assets/81514487/e83049ad-404e-4f67-baf0-3edff138a150)
+
 ![Screenshot (39)](https://github.com/samar-jeet/mental_health/assets/81514487/ec45064a-640d-4511-ad03-d1c87ef3c1d6)
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/76893116/227753233-af435691-b11e-4947-b44a-2bdefcd2991c.png)
