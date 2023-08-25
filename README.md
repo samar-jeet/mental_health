@@ -13,6 +13,7 @@ In our project we  are preparing a ML model that predicts the level of stress an
 - For Critical Users(highly stressed) we recommend Psychologists.
 - Chatbot for general Queries related to mental health of user.
   
+![227753335-ea4c650f-00c5-4ca2-b1b7-8f1ee2722d81](https://github.com/samar-jeet/mental_health/assets/81514487/e83049ad-404e-4f67-baf0-3edff138a150)
 
 ![Screenshot (40) (1)](https://user-images.githubusercontent.com/76893116/227753335-ea4c650f-00c5-4ca2-b1b7-8f1ee2722d81.png)
 
